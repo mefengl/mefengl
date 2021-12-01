@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%205%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -59,16 +61,22 @@ Sunday       27 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 46 mins       ███████████████████████░░   93.24% 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.62% 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.98% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16% 
+yarn.lock                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 4 hrs 2 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cs_lab03                 3 hrs 26 mins       █████████████████████░░░░   84.85% 
+capstone-management-platf29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
+mefengl                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 2 mins        █████████████████████████   100.0%
 
 ```
 
@@ -86,5 +94,5 @@ HTML                     1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/mefengl/mefengl/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 01/12/2021
 <!--END_SECTION:waka-->
