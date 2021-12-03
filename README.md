@@ -96,3 +96,5 @@ HTML                     1 repo              ████████░░░�
 
  Last Updated on 01/12/2021
 <!--END_SECTION:waka-->
+
+![Alt](https://repobeats.axiom.co/api/embed/d3332ed7ca20d835cd0c0eafb6727eae93deeb92.svg "Repobeats analytics image")
