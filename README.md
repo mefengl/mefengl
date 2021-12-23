@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 417 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 1.7 kB Used in GitHub's Storage 
  > 
@@ -72,8 +72,7 @@ VS Code                  5 hrs 27 mins       ███████████�
 Unknown Project          3 hrs 18 mins       ███████████████░░░░░░░░░░   60.42% 
 cs_lab06                 1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   35.3% 
 cs_lab01                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.28% 
-AHUer_Backstage_Managemen0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-vault                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+AHUer_Backstage_Managemen0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
 Mac                      4 hrs 50 mins       ██████████████████████░░░   88.63% 
@@ -95,6 +94,6 @@ HTML                     1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/mefengl/mefengl/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/12/2021
+ Last Updated on 23/12/2021
 <!--END_SECTION:waka-->
 
