@@ -1,7 +1,5 @@
 # 👋
 
-Working on TS...
-
 ## ta.
 
 https://diygod.me/
@@ -15,3 +13,7 @@ https://linjuncheng.cn/
 ## ta
 
 https://danluu.com/
+
+## one.
+
+TypeChallenges https://github.com/mefengl/answer/tree/main/typeChallenges
