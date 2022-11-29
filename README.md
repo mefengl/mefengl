@@ -32,4 +32,16 @@ TypeChallenges https://github.com/mefengl/answer/tree/main/typeChallenges 🏗�
 
 ## me. 
 
-🚧
+Reading, Coding
+
+Red Tea
+
+Mac, Kinesis Advantage2
+
+yabai&skhd
+
+iTerm2, oh-my-zsh
+
+React(Next), Tailwind, VSCode
+
+AWS, [Rain](https://github.com/aws-cloudformation/rain), Vim(Neovim)
