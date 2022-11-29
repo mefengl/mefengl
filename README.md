@@ -2,13 +2,21 @@
 
 ## ta.
 
+### cute?
+
 https://diygod.me/
 
 https://www.acoier.com/
 
 https://www.lionad.art/
 
+### hardcore?
+
 https://linjuncheng.cn/
+
+### info?
+
+https://www.owenyoung.com/
 
 ## ta
 
