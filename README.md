@@ -34,20 +34,10 @@ TypeChallenges https://github.com/mefengl/answer/tree/main/typeChallenges üèóÔ∏
 
 ### amazing?
 
-cosy reading https://greasyfork.org/zh-CN/scripts/420774
+Cosy reading https://greasyfork.org/zh-CN/scripts/420774
 
 ## me?
 
-Reading, Coding
+Write `React(Next)` with `Tailwind` by `VSCode`
 
-Red Tea
-
-Mac, Kinesis Advantage2
-
-yabai&skhd
-
-iTerm2, oh-my-zsh
-
-React(Next), Tailwind, VSCode
-
-AWS, [Rain](https://github.com/aws-cloudformation/rain), Vim(Neovim)
+Use `AWS` by [`Rain`](https://github.com/aws-cloudformation/rain) and `Vim(Neovim)`
