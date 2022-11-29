@@ -24,11 +24,17 @@ https://danluu.com/
 
 ## my.
 
+### hardcore?
+
 LeetCode https://github.com/mefengl/answer/tree/main/python
 
 Lodash https://github.com/mefengl/answer/tree/main/lodash-to-me 🚧
 
 TypeChallenges https://github.com/mefengl/answer/tree/main/typeChallenges 🏗️
+
+### amazing?
+
+https://greasyfork.org/zh-CN/scripts/420774
 
 ## me. 
 
