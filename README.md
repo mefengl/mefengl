@@ -38,6 +38,4 @@ Cosy reading https://greasyfork.org/zh-CN/scripts/420774
 
 ## me?
 
-Write `React(Next)` with `Tailwind` by `VSCode`
-
-Use `AWS` by [`Rain`](https://github.com/aws-cloudformation/rain) and `Vim(Neovim)`
+🚧
