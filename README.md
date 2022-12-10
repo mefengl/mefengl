@@ -22,6 +22,10 @@ https://www.owenyoung.com/
 
 https://danluu.com/
 
+## them.
+
+https://karpathy.ai/lexicap/
+
 ## my.
 
 ### hardcore?
