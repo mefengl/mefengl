@@ -44,6 +44,10 @@ Cosy reading https://greasyfork.org/zh-CN/scripts/420774
 
 A Programmer, only when with Copilot and ChatGPT
 
+### Recently...
+[Explore & Build](https://github.com/users/mefengl/projects/1)
+
+### My Setup
 https://github.com/mefengl/Awsome-yabai-skhd
 https://github.com/mefengl/Awesome-AI-Engineer
 https://github.com/mefengl/Awesome-AWS
