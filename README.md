@@ -43,3 +43,20 @@ Cosy reading https://greasyfork.org/zh-CN/scripts/420774
 ## me?
 
 A Programmer, only when with Copilot and ChatGPT
+
+https://github.com/mefengl/Awsome-yabai-skhd
+https://github.com/mefengl/Awesome-AI-Engineer
+https://github.com/mefengl/Awesome-AWS
+https://github.com/mefengl/Awsome-Indie
+
+https://github.com/mefengl/Awsome-Snippets 🚧
+https://github.com/mefengl/Awsome-Aliases 🚧
+https://github.com/mefengl/Awsome-Hotkeys 🚧
+https://github.com/mefengl/Awsome-Themes 🚧
+https://github.com/mefengl/Awsome-Shell 🚧
+
+### ???
+https://github.com/mefengl/Awsome-i18n
+https://github.com/mefengl/Awsome-Regex
+https://github.com/mefengl/Awsome-Workout
+https://github.com/mefengl/Some-Choices
