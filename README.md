@@ -49,14 +49,21 @@ A Programmer, only when with Copilot and ChatGPT
 
 ### My Setup
 https://github.com/mefengl/Awsome-yabai-skhd
+
 https://github.com/mefengl/Awesome-AI-Engineer
+
 https://github.com/mefengl/Awesome-AWS
+
 https://github.com/mefengl/Awsome-Indie
 
 https://github.com/mefengl/Awsome-Snippets 🚧
+
 https://github.com/mefengl/Awsome-Aliases 🚧
+
 https://github.com/mefengl/Awsome-Hotkeys 🚧
+
 https://github.com/mefengl/Awsome-Themes 🚧
+
 https://github.com/mefengl/Awsome-Shell 🚧
 
 ### ???
