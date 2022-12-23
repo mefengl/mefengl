@@ -41,7 +41,11 @@ TypeChallenges https://github.com/mefengl/answer/tree/main/typeChallenges ğŸ—ï¸
 Cosy reading https://greasyfork.org/zh-CN/scripts/420774
 
 ## me?
-
+<p align="center">
+  <samp>
+    <a href="https://never2.top/blog">blog</a>
+  </samp>
+</p>
 A Programmer, only when with Copilot and ChatGPT
 
 ### Recently...
