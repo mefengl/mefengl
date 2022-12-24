@@ -22,6 +22,8 @@ https://www.owenyoung.com/
 
 https://danluu.com/
 
+https://thesephist.com/
+
 ## them.
 
 https://karpathy.ai/lexicap/
