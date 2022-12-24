@@ -4,79 +4,85 @@
 
 ### ~
 
-https://diygod.me/
-
-https://www.lionad.art/
+<p align="center">
+  <samp>
+    <a href="https://diygod.me/">DIYGod</a> .
+    <a href="https://www.lionad.art/">Lionad</a>
+  </samp>
+</p>
 
 ### hardcore?
-
-https://linjuncheng.cn/
-
-https://www.acoier.com/
+<p align="center">
+  <samp>
+    <a href="https://linjuncheng.cn/">Cheng</a> .
+    <a href="https://www.acoier.com/">Acoier</a>
+  </samp>
+</p>
 
 ### info?
-
-https://www.owenyoung.com/
+<p align="center">
+  <samp>
+    <a href="https://www.owenyoung.com/">Owen</a>
+  </samp>
+</p>
 
 ### amazing?
-
-https://danluu.com/
-
-https://thesephist.com/
+<p align="center">
+  <samp>
+    <a href="https://danluu.com/">danluu</a> .
+    <a href="https://thesephist.com/">Linus</a>
+  </samp>
+</p>
 
 ## them.
-
-https://karpathy.ai/lexicap/
+<p align="center">
+  <samp>
+    <a href="https://karpathy.ai/lexicap/">Lex Fridman</a>
+  </samp>
+</p>
 
 ## my.
 
 ### hardcore?
 
-LeetCode https://github.com/mefengl/answer/tree/main/python
-
-Lodash https://github.com/mefengl/answer/tree/main/lodash-to-me 🚧
-
-TypeChallenges https://github.com/mefengl/answer/tree/main/typeChallenges 🏗️
+<p align="center">
+  <samp>
+    <a href="https://github.com/mefengl/answer/tree/main/leetcode-python">LeetCode</a> .
+    <a href="https://github.com/mefengl/answer/tree/main/lodash-to-me">Lodash</a> .
+    <a href="https://github.com/mefengl/answer/tree/main/typeChallenges">TypeChallenges</a>
+  </samp>
+</p>
 
 ### amazing?
 
-Cosy reading https://greasyfork.org/zh-CN/scripts/420774
+<p align="center">
+  <samp>
+    <a href="https://greasyfork.org/zh-CN/scripts/420774">wereadhelper</a>
+  </samp>
+</p>
 
 ## me?
+A Programmer, only when with Copilot and ChatGPT
 <p align="center">
   <samp>
     <a href="https://never2.top/blog">blog</a>
   </samp>
 </p>
-A Programmer, only when with Copilot and ChatGPT
 
 ### Recently...
-[Explore & Build](https://github.com/users/mefengl/projects/1)
+<p align="center">
+  <samp>
+    <a href="https://github.com/users/mefengl/projects/1">Explore & Build</a>
+  </samp>
+</p>
 
 ### My Setup
-https://github.com/mefengl/Awsome-yabai-skhd
-
-https://github.com/mefengl/Awesome-AI-Engineer
-
-https://github.com/mefengl/Awesome-AWS
-
-https://github.com/mefengl/Awsome-Indie
-
-https://github.com/mefengl/Awsome-Snippets 🚧
-
-https://github.com/mefengl/Awsome-Aliases 🚧
-
-https://github.com/mefengl/Awsome-Hotkeys 🚧
-
-https://github.com/mefengl/Awsome-Themes 🚧
-
-https://github.com/mefengl/Awsome-Shell 🚧
-
-### ???
-https://github.com/mefengl/Awsome-i18n
-
-https://github.com/mefengl/Awsome-Regex
-
-https://github.com/mefengl/Awsome-Workout
-
-https://github.com/mefengl/Some-Choices
+<p align="center">
+  <samp>
+    <a href="https://github.com/mefengl/my-vim">Vim</a> .
+    <a href="https://github.com/mefengl/Awsome-yabai-skhd">yabai & skhd</a> .
+    <a href="https://github.com/mefengl/Awesome-AI-Engineer">AI Engineer</a> .
+    <a href="https://github.com/mefengl/Awsome-AWS">AWS</a> .
+    <a href="https://github.com/mefengl/Awsome-Indie">Indie</a>
+  </samp>
+</p>
