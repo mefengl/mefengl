@@ -1,5 +1,22 @@
 # 👋
 
+## me?
+A Programmer, only when with Copilot and ChatGPT
+<p align="center">
+  <samp>
+    <a href="https://never2.top/blog">blog</a>
+  </samp>
+</p>
+
+### 2023
+<p align="center">
+  <samp>
+    <a href="https://github.com/users/mefengl/projects/1/views/4">Explore & Build</a><br>
+    <span>01/01/sleep</span> .
+    <span>01/02/graphql</span> .
+  </samp>
+</p>
+
 ## ta.
 
 ### ~
@@ -50,29 +67,6 @@
     <a href="https://github.com/mefengl/answer/tree/main/leetcode-python">LeetCode</a> .
     <a href="https://github.com/mefengl/answer/tree/main/lodash-to-me">Lodash</a> .
     <a href="https://github.com/mefengl/answer/tree/main/typeChallenges">TypeChallenges</a>
-  </samp>
-</p>
-
-### amazing?
-
-<p align="center">
-  <samp>
-    <a href="https://greasyfork.org/zh-CN/scripts/420774">wereadhelper</a>
-  </samp>
-</p>
-
-## me?
-A Programmer, only when with Copilot and ChatGPT
-<p align="center">
-  <samp>
-    <a href="https://never2.top/blog">blog</a>
-  </samp>
-</p>
-
-### Recently...
-<p align="center">
-  <samp>
-    <a href="https://github.com/users/mefengl/projects/1">Explore & Build</a>
   </samp>
 </p>
 
