@@ -21,6 +21,17 @@
   </samp>
 </p>
 
+### My Setup
+<p align="center">
+  <samp>
+    <a href="https://github.com/mefengl/my-vim">Vim</a> .
+    <a href="https://github.com/mefengl/Awsome-yabai-skhd">yabai & skhd</a> .
+    <a href="https://github.com/mefengl/Awesome-AI-Engineer">AI Engineer</a> .
+    <a href="https://github.com/mefengl/Awsome-AWS">AWS</a> .
+    <a href="https://github.com/mefengl/Awsome-Indie">Indie</a>
+  </samp>
+</p>
+
 ## ta.
 
 ### ~
@@ -71,16 +82,5 @@
     <a href="https://github.com/mefengl/answer/tree/main/leetcode-python">LeetCode</a> .
     <a href="https://github.com/mefengl/answer/tree/main/lodash-to-me">Lodash</a> .
     <a href="https://github.com/mefengl/answer/tree/main/typeChallenges">TypeChallenges</a>
-  </samp>
-</p>
-
-### My Setup
-<p align="center">
-  <samp>
-    <a href="https://github.com/mefengl/my-vim">Vim</a> .
-    <a href="https://github.com/mefengl/Awsome-yabai-skhd">yabai & skhd</a> .
-    <a href="https://github.com/mefengl/Awesome-AI-Engineer">AI Engineer</a> .
-    <a href="https://github.com/mefengl/Awsome-AWS">AWS</a> .
-    <a href="https://github.com/mefengl/Awsome-Indie">Indie</a>
   </samp>
 </p>
