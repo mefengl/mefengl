@@ -21,14 +21,23 @@
   </samp>
 </p>
 
-### My Setup
 <p align="center">
   <samp>
+    <span>setup</span><br>
     <a href="https://github.com/mefengl/my-vim">Vim</a> .
     <a href="https://github.com/mefengl/Awsome-yabai-skhd">yabai & skhd</a> .
     <a href="https://github.com/mefengl/Awesome-AI-Engineer">AI Engineer</a> .
     <a href="https://github.com/mefengl/Awsome-AWS">AWS</a> .
     <a href="https://github.com/mefengl/Awsome-Indie">Indie</a>
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    <span>answer</span><br>
+    <a href="https://github.com/mefengl/answer/tree/main/leetcode-python">LeetCode</a> .
+    <a href="https://github.com/mefengl/answer/tree/main/lodash-to-me">Lodash</a> .
+    <a href="https://github.com/mefengl/answer/tree/main/typeChallenges">TypeChallenges</a>
   </samp>
 </p>
 
@@ -70,17 +79,5 @@
 <p align="center">
   <samp>
     <a href="https://karpathy.ai/lexicap/">Lex Fridman</a>
-  </samp>
-</p>
-
-## my.
-
-### hardcore?
-
-<p align="center">
-  <samp>
-    <a href="https://github.com/mefengl/answer/tree/main/leetcode-python">LeetCode</a> .
-    <a href="https://github.com/mefengl/answer/tree/main/lodash-to-me">Lodash</a> .
-    <a href="https://github.com/mefengl/answer/tree/main/typeChallenges">TypeChallenges</a>
   </samp>
 </p>
