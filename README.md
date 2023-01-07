@@ -3,8 +3,8 @@
 ## me?
 <p align="center">
   <samp>
-    <span>A Programmer, only when with ChatGPT and Copilot</span><br>
     <a href="https://never2.top/blog">blog</a>
+    <span>A Programmer, only when with ChatGPT and Copilot</span><br>
   </samp>
 </p>
 
