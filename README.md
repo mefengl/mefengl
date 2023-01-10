@@ -11,6 +11,10 @@
 <p align="center">
   <samp>
     <span>2023</span><br>
+    <a href="https://github.com/mefengl/what-i-read">what-i-read</a>
+    <br>
+    <span>what-i-do</span>
+    <br>
     <span>01/01/sleep</span> .
     <span>01/02/graphql</span> .
     <span>01/03/nothing</span> .
@@ -20,7 +24,8 @@
     <span>01/07/Shanghai</span> .
     <span>01/08/Arc</span> .
     <span>01/09/chezmoi&Clash</span> .
-    <br><a href="https://github.com/users/mefengl/projects/1/views/4">Explore & Build</a>
+    <br>
+    <a href="https://github.com/users/mefengl/projects/1/views/4">Explore & Build</a>
   </samp>
 </p>
 
