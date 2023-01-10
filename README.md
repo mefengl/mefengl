@@ -28,6 +28,7 @@
   <samp>
     <span>setup</span><br>
     <a href="https://github.com/mefengl/Awesome-AI-Engineer">AI Engineer</a> .
+    <a href="https://github.com/mefengl/my-Arc">Arc</a> .
     <a href="https://github.com/mefengl/dotfiles">dotfiles</a> .
     <a href="https://github.com/mefengl/Awsome-AWS">AWS</a>
   </samp>
