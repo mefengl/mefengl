@@ -12,7 +12,8 @@
   <samp>
     <a href="https://github.com/mefengl/what-i-read">what-i-read</a> .
     <a href="https://github.com/mefengl/what-i-do">what-i-do</a> .
-    <a href="https://github.com/mefengl/what-i-watch">what-i-watch</a>
+    <a href="https://github.com/mefengl/what-i-watch">what-i-watch</a> .
+    <a href="https://github.com/mefengl/what-i-try">what-i-try</a> .
     <br>
     <a href="https://github.com/users/mefengl/projects/1/views/4">Explore & Build</a>
   </samp>
