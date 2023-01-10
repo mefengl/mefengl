@@ -60,6 +60,7 @@
     <a href="https://karpathy.ai/lexicap/">Lex Fridman</a>
     <br>
     <span>hardcore</span><br>
+    <a href="https://seb.jambor.dev/">Jambor</a> .
     <a href="https://linjuncheng.cn/">Cheng</a> .
     <a href="https://www.acoier.com/">Acoier</a>
     <br>
