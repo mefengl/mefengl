@@ -15,7 +15,7 @@
     <a href="https://github.com/mefengl/what-i-watch">what-i-watch</a> .
     <a href="https://github.com/mefengl/what-i-try">what-i-try</a> .
     <br>
-    <a href="https://github.com/users/mefengl/projects/1/views/4">Explore & Build</a>
+    <a href="https://github.com/users/mefengl/projects/2/">Explore & Build</a>
   </samp>
 </p>
 
