@@ -48,6 +48,8 @@
     <a href="https://danluu.com/">danluu</a> .
     <a href="https://thesephist.com/">Linus</a>
     <br>
+    <span>*</span><br>
+    <a href="https://letterstoanewdeveloper.com/">Moore</a> .
     <span>~</span><br>
     <a href="https://diygod.me/">DIYGod</a> .
     <a href="https://www.lionad.art/">Lionad</a>
