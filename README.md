@@ -1,10 +1,10 @@
 # 👋
+A Programmer, only when with ChatGPT and Copilot
 
 ## me?
 <p align="center">
   <samp>
     <a href="https://never2.top/blog">blog</a><br>
-    <span>A Programmer, only when with ChatGPT and Copilot</span>
   </samp>
 </p>
 
@@ -34,7 +34,7 @@
     <span>answer</span><br>
     <a href="https://github.com/mefengl/answer/tree/main/leetcode-python">LeetCode</a> .
     <a href="https://github.com/mefengl/answer/tree/main/lodash-to-me">Lodash</a> .
-    <a href="https://github.com/mefengl/answer/tree/main/typeChallenges">TypeChallenges</a>
+    <a href="https://github.com/mefengl/answer/tree/main/typeChallenges">TypeChallenges</a> .
     <a href="https://github.com/mefengl/answer/tree/main/SadServers">SadServers</a>
   </samp>
 </p>
@@ -47,10 +47,9 @@
     <a href="https://www.benkuhn.net/">Ben</a> .
     <a href="https://danluu.com/">danluu</a> .
     <a href="https://thesephist.com/">Linus</a>
-    <br>
-    <span>*</span><br>
-    <a href="https://letterstoanewdeveloper.com/">Moore</a> .
-    <span>~</span><br>
+    <br><span>*</span><br>
+    <a href="https://letterstoanewdeveloper.com/">Moore</a>
+    <br><span>~</span><br>
     <a href="https://diygod.me/">DIYGod</a> .
     <a href="https://www.lionad.art/">Lionad</a>
     <br>
