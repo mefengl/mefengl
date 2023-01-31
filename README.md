@@ -62,6 +62,7 @@ A Programmer, only when with ChatGPT and Copilot
     <a href="https://www.acoier.com/">Acoier</a>
     <br>
     <span>info</span><br>
-    <a href="https://www.owenyoung.com/">Owen</a>
+    <a href="https://www.owenyoung.com/">Owen</a> .
+    <a href="https://blog.guyskk.com/">Guyskk</a>
   </samp>
 </p>
