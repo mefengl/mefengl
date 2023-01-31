@@ -48,7 +48,8 @@ A Programmer, only when with ChatGPT and Copilot
     <a href="https://danluu.com/">danluu</a> .
     <a href="https://thesephist.com/">Linus</a>
     <br><span>*</span><br>
-    <a href="https://letterstoanewdeveloper.com/">Moore</a>
+    <a href="https://letterstoanewdeveloper.com/">Moore</a> .
+    <a href="https://davidamos.dev/">David</a>
     <br><span>~</span><br>
     <a href="https://diygod.me/">DIYGod</a> .
     <a href="https://www.lionad.art/">Lionad</a>
