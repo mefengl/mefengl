@@ -1,7 +1,15 @@
 # 👋
+
 A Programmer, only when with ChatGPT and Copilot
 
+## Recently...
+
+Opensource my answer to this life, in case die young
+
+Build something userful to lovely people that still reading books
+
 ## me?
+
 <p align="center">
   <samp>
     <a href="https://never2.top/blog">blog</a><br>
