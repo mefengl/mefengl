@@ -65,6 +65,9 @@ Build something userful to lovely people that still reading books
     <span>them</span><br>
     <a href="https://karpathy.ai/lexicap/">Lex Fridman</a>
     <br>
+    <span>tech</span><br>
+    <a href="https://tkdodo.eu/blog/">Dominik</a>
+    <br>
     <span>hardcore</span><br>
     <a href="https://thakkarparth007.github.io/">Parth</a> .
     <a href="https://seb.jambor.dev/">Jambor</a> .
