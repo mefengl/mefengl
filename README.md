@@ -22,6 +22,7 @@ Build something userful to lovely people that still reading books
     <a href="https://github.com/mefengl/what-i-do">what-i-do</a> .
     <a href="https://github.com/mefengl/what-i-watch">what-i-watch</a> .
     <a href="https://github.com/mefengl/what-i-try">what-i-try</a> .
+    <a href="https://github.com/mefengl/what-i-make">what-i-make</a> .
     <br>
     <a href="https://github.com/users/mefengl/projects/2/">Explore & Build</a>
   </samp>
