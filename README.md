@@ -60,7 +60,8 @@ Build something userful to lovely people that still reading books
     <a href="https://davidamos.dev/">David</a>
     <br><span>~</span><br>
     <a href="https://diygod.me/">DIYGod</a> .
-    <a href="https://www.lionad.art/">Lionad</a>
+    <a href="https://www.lionad.art/">Lionad</a> .
+    <a href="https://alexkondov.com/articles/">Alex</a>
     <br>
     <span>them</span><br>
     <a href="https://karpathy.ai/lexicap/">Lex Fridman</a>
