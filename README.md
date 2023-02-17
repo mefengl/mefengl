@@ -69,6 +69,7 @@ Build something userful to lovely people that still reading books
     <br>
     <span>tech</span><br>
     <a href="https://tkdodo.eu/blog/">Dominik</a>
+    <a href="https://www.neugierig.org/software/blog/">Neugierig</a>
     <br>
     <span>hardcore</span><br>
     <a href="https://thakkarparth007.github.io/">Parth</a> .
