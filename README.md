@@ -12,7 +12,7 @@ Build something userful to lovely people that still reading books
 
 <p align="center">
   <samp>
-    <a href="https://never2.top/blog">blog</a><br>
+    <a href="https://mefengl.me/blog">blog</a><br>
   </samp>
 </p>
 
