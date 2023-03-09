@@ -20,21 +20,24 @@ Build something userful to lovely people that still reading books
   <samp>
     <a href="https://github.com/mefengl/what-i-read">what-i-read</a> .
     <a href="https://github.com/mefengl/what-i-do">what-i-do</a> .
-    <a href="https://github.com/mefengl/what-i-watch">what-i-watch</a> .
-    <a href="https://github.com/mefengl/what-i-try">what-i-try</a> .
     <a href="https://github.com/mefengl/what-i-make">what-i-make</a> .
-    <br>
-    <a href="https://github.com/users/mefengl/projects/2/">Explore & Build</a>
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    <span>with ai</span><br>
+    <a href="https://github.com/mefengl/Awesome-AI-Engineer">AI Engineer</a> .
+    <a href="https://github.com/mefengl/the-art-of-chatgpt">the art of chatgpt</a> .
+    <a href="https://github.com/mefengl/AaaH">AaaH</a> .
   </samp>
 </p>
 
 <p align="center">
   <samp>
     <span>setup</span><br>
-    <a href="https://github.com/mefengl/Awesome-AI-Engineer">AI Engineer</a> .
-    <a href="https://github.com/mefengl/my-Arc">Arc</a> .
     <a href="https://github.com/mefengl/dotfiles">dotfiles</a> .
-    <a href="https://github.com/mefengl/Awsome-AWS">AWS</a>
+    <a href="https://github.com/mefengl/my-Arc">Arc</a> .
   </samp>
 </p>
 
