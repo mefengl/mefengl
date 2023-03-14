@@ -8,7 +8,44 @@ Opensource my answer to this life, in case die young
 
 Build something userful to lovely people that still reading books
 
-## me?
+## ChatGPT DEV ing...
+
+<p align="center">
+  <samp>
+    <span>thoughts</span><br>
+    <a href="https://github.com/mefengl/the-art-of-chatgpt">the art of chatgpt</a> .
+    <a href="https://github.com/mefengl/AaaH">AaaH</a> .
+  <samp>
+</p>
+
+<p align="center">
+  <samp>
+    <span>ChatGPT Web</span><br>
+    <a href="https://github.com/mefengl/chatgpt-utils">chatgpt-utils</a> .
+    <a href="https://github.com/mefengl/chatgpt-doozy">Doozy</a> .
+    <a href="https://github.com/mefengl/chatgpt-driven">🏗️Driven</a> .
+    <a href="https://github.com/mefengl/chatgpt-gemini">🏗️Gemini</a> .
+    <a href="https://github.com/mefengl/chatgpt-sensible">🏗️chatgpt-sensible</a> .
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    <span>@adamlui</span><br>
+    <a href="https://github.com/adamlui/userscripts/tree/master/chatgpt/chatgpt-widescreen-mode">widescreen-mode</a> .
+    <a href="https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history">autoclear-history</a> .
+    <a href="https://github.com/adamlui/userscripts/tree/master/chatgpt">more</a>
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    <span>ChatGPT APP</span><br>
+    <a href="https://github.com/mefengl/Duvin">🏗️Duvin</a>
+  </samp>
+</p>
+
+## Other...
 
 <p align="center">
   <samp>
@@ -48,40 +85,5 @@ Build something userful to lovely people that still reading books
     <a href="https://github.com/mefengl/answer/tree/main/lodash-to-me">Lodash</a> .
     <a href="https://github.com/mefengl/answer/tree/main/typeChallenges">TypeChallenges</a> .
     <a href="https://github.com/mefengl/answer/tree/main/SadServers">SadServers</a>
-  </samp>
-</p>
-
-## ta.
-
-<p align="center">
-  <samp>
-    <span>amazing</span><br>
-    <a href="https://www.benkuhn.net/">Ben</a> .
-    <a href="https://danluu.com/">danluu</a> .
-    <a href="https://thesephist.com/">Linus</a>
-    <br><span>*</span><br>
-    <a href="https://letterstoanewdeveloper.com/">Moore</a> .
-    <a href="https://davidamos.dev/">David</a>
-    <br><span>~</span><br>
-    <a href="https://diygod.me/">DIYGod</a> .
-    <a href="https://www.lionad.art/">Lionad</a> .
-    <a href="https://alexkondov.com/articles/">Alex</a>
-    <br>
-    <span>them</span><br>
-    <a href="https://karpathy.ai/lexicap/">Lex Fridman</a>
-    <br>
-    <span>tech</span><br>
-    <a href="https://tkdodo.eu/blog/">Dominik</a>
-    <a href="https://www.neugierig.org/software/blog/">Neugierig</a>
-    <br>
-    <span>hardcore</span><br>
-    <a href="https://thakkarparth007.github.io/">Parth</a> .
-    <a href="https://seb.jambor.dev/">Jambor</a> .
-    <a href="https://linjuncheng.cn/">Cheng</a> .
-    <a href="https://www.acoier.com/">Acoier</a>
-    <br>
-    <span>info</span><br>
-    <a href="https://www.owenyoung.com/">Owen</a> .
-    <a href="https://www.swyx.io/ideas">swyx</a>
   </samp>
 </p>
