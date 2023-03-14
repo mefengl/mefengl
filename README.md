@@ -81,6 +81,7 @@ Build something userful to lovely people that still reading books
     <a href="https://www.acoier.com/">Acoier</a>
     <br>
     <span>info</span><br>
-    <a href="https://www.owenyoung.com/">Owen</a>
+    <a href="https://www.owenyoung.com/">Owen</a> .
+    <a href="https://www.swyx.io/ideas">swyx</a>
   </samp>
 </p>
