@@ -20,7 +20,7 @@ Build something userful to lovely people that still reading books
 <p align="center">
   <samp>
     <span>ChatGPT Web</span><br>
-    <a href="https://github.com/chatgptjs/chatgptjs-tampermonkey-starter">tampermonkey-starter</a> .
+    <a href="https://github.com/mefengl/chatgpt-tampermonkey-starter">🏗️tampermonkey-starter</a> .
     <a href="https://github.com/mefengl/chatgpt-utils">utils</a> .
     <a href="https://github.com/mefengl/chatgpt-sensible">sensible</a> .
     <a href="https://github.com/mefengl/chatgpt-doozy">Doozy</a> .
