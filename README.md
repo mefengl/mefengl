@@ -20,12 +20,13 @@ Build something userful to lovely people that still reading books
 <p align="center">
   <samp>
     <span>ChatGPT Web</span><br>
-    <a href="https://github.com/mefengl/chatgpt-utils">chatgpt-utils</a> .
-    <a href="https://github.com/mefengl/chatgpt-sensible">chatgpt-sensible</a> .
+    <a href="https://github.com/mefengl/chatgpt-utils">utils</a> .
+    <a href="https://github.com/mefengl/chatgpt-sensible">sensible</a> .
     <a href="https://github.com/mefengl/chatgpt-doozy">Doozy</a> .
     <a href="https://github.com/mefengl/chatgpt-driven">🏗️Driven</a> .
     <a href="https://github.com/mefengl/chatgpt-gemini">🏗️Gemini</a> .
-    <a href="https://github.com/mefengl/chatgpt-later">🏗️chatgpt-later</a> .
+    <a href="https://github.com/mefengl/chatgpt-later">🏗️later</a> .
+    <a href="https://github.com/mefengl/chatgpt-infinite">⚠️infinite</a> .
   </samp>
 </p>
 
