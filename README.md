@@ -35,16 +35,6 @@ Build something userful to lovely people that still reading books
 
 <p align="center">
   <samp>
-    <span>@adamlui</span><br>
-    <a href="https://github.com/chatgptjs/chatgpt.js">chatgpt.js</a> .
-    <a href="https://github.com/adamlui/userscripts/tree/master/chatgpt/chatgpt-widescreen-mode">widescreen-mode</a> .
-    <a href="https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history">autoclear-history</a> .
-    <a href="https://github.com/adamlui/userscripts/tree/master/chatgpt">more</a>
-  </samp>
-</p>
-
-<p align="center">
-  <samp>
     <span>ChatGPT APP</span><br>
     <a href="https://github.com/mefengl/Duvin">🏗️Duvin</a>
   </samp>
