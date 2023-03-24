@@ -12,8 +12,10 @@ Build something userful to lovely people that still reading books
 
 <p align="center">
   <samp>
-    <span>thoughts</span><br>
+    <span>else</span><br>
     <a href="https://github.com/mefengl/the-art-of-chatgpt">the art of chatgpt</a>
+    <a href="https://github.com/mefengl/Awesome-AI-Engineer">AI Engineer</a> .
+    <a href="https://github.com/mefengl/awesome-waitlist">waitlist</a> .
   <samp>
 </p>
 
@@ -59,7 +61,6 @@ Build something userful to lovely people that still reading books
 <p align="center">
   <samp>
     <span>setup</span><br>
-    <a href="https://github.com/mefengl/Awesome-AI-Engineer">AI Engineer</a> .
     <a href="https://github.com/mefengl/dotfiles">dotfiles</a>
   </samp>
 </p>
