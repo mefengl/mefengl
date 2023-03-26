@@ -21,16 +21,20 @@ Build something userful to lovely people that still reading books
 
 <p align="center">
   <samp>
-    <span>ChatGPT Web</span><br>
-    <a href="https://github.com/mefengl/chatgpt-tampermonkey-starter">tampermonkey-starter</a> .
-    <a href="https://github.com/mefengl/chatgpt-playground">playground</a> .
-    <a href="https://github.com/mefengl/chatgpt-utils">utils</a> .
+    <span><a href="https://github.com/mefengl/chatgpt-playground">playground</a></span><br>
     <a href="https://github.com/mefengl/chatgpt-playground/tree/main/apps/sensible">sensible</a> .
-    <a href="https://github.com/mefengl/chatgpt-doozy">Doozy</a> .
     <a href="https://github.com/mefengl/chatgpt-playground/tree/main/apps/infinite">infinite</a> .
     <a href="https://github.com/mefengl/chat-together">🏗️together</a> .
     <a href="https://github.com/mefengl/chatgpt-later">🏗️later</a> .
     <a href="https://github.com/mefengl/chatgpt-twice">🏗️twice</a> .
+  <samp>
+</p>
+
+<p align="center">
+  <samp>
+    <span>web</span><br>
+    <a href="https://github.com/mefengl/chatgpt-tampermonkey-starter">tampermonkey-starter</a> .
+    <a href="https://github.com/mefengl/chatgpt-doozy">Doozy</a> .
     <a href="https://github.com/mefengl/chatgpt-driven">🏗️Driven</a> .
     <a href="https://github.com/mefengl/chatgpt-gemini">🏗️Gemini</a> .
   </samp>
@@ -38,7 +42,7 @@ Build something userful to lovely people that still reading books
 
 <p align="center">
   <samp>
-    <span>ChatGPT APP</span><br>
+    <span>app</span><br>
     <a href="https://github.com/mefengl/Duvin">🏗️Duvin</a>
   </samp>
 </p>
