@@ -27,10 +27,16 @@ Build something userful to lovely people that still reading books
 
 <p align="center">
   <samp>
+    <span>utils</span><br>
+    <a href="https://github.com/mefengl/chatgpt-utils">chatgpt</a> .
+    <a href="https://github.com/mefengl/bard-utils">bard</a> .
+    <a href="https://github.com/mefengl/bing-utils">bing</a>
+  <samp>
+</p>
+
+<p align="center">
+  <samp>
     <span><a href="https://github.com/mefengl/chatgpt-playground">playground</a></span><br>
-    <a href="https://github.com/mefengl/chatgpt-utils">chatgpt-utils</a> .
-    <a href="https://github.com/mefengl/bard-utils">bard-utils</a> .
-    <a href="https://github.com/mefengl/bing-utils">bing-utils</a> .
     <a href="https://github.com/mefengl/chat-octopus">🏗️octopus</a> .
     <a href="https://github.com/mefengl/chatgpt-playground/tree/main/apps/sensible">sensible</a> .
     <a href="https://github.com/mefengl/chatgpt-playground/tree/main/apps/infinite">infinite</a> .
