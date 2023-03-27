@@ -1,5 +1,10 @@
 # 👋
 
+[![AI Friendly](https://img.shields.io/badge/AI-Friendly-pink?style=for-the-badge)](https://github.com/mefengl/made-by-ai)
+[![AI Driven](https://img.shields.io/badge/AI-Driven-orange?style=for-the-badge)](https://github.com/mefengl/made-by-ai)
+[![AI Assisted Yes](https://img.shields.io/badge/AI%20Assisted-Yes-green?style=for-the-badge)](https://github.com/mefengl/made-by-ai)
+[![Commit Messages by AI](https://img.shields.io/badge/Commit%20Messages%20by-AI-green?style=for-the-badge)](https://github.com/mefengl/made-by-ai)
+
 A Programmer, only when with ChatGPT and Copilot
 
 ## Recently...
