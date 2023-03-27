@@ -13,7 +13,7 @@ Opensource my answer to this life, in case die young
 
 Build something userful to lovely people that still reading books
 
-## ChatGPT/Bard DEV ing...
+## ChatGPT/Bard/Bing DEV ing...
 
 <p align="center">
   <samp>
@@ -29,6 +29,7 @@ Build something userful to lovely people that still reading books
   <samp>
     <span><a href="https://github.com/mefengl/chatgpt-playground">playground</a></span><br>
     <a href="https://github.com/mefengl/bard-utils">bard-utils</a> .
+    <a href="https://github.com/mefengl/bing-utils">🏗️bing-utils</a> .
     <a href="https://github.com/mefengl/chatgpt-playground/tree/main/apps/sensible">sensible</a> .
     <a href="https://github.com/mefengl/chatgpt-playground/tree/main/apps/infinite">infinite</a> .
     <a href="https://github.com/mefengl/chat-together">🏗️together</a> .
