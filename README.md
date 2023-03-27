@@ -15,6 +15,7 @@ Build something userful to lovely people that still reading books
     <span>else</span><br>
     <a href="https://github.com/mefengl/the-art-of-chatgpt">the art of chatgpt</a>
     <a href="https://github.com/mefengl/Awesome-AI-Engineer">AI Engineer</a> .
+    <a href="https://github.com/mefengl/made-by-ai">badges</a> .
     <a href="https://github.com/mefengl/awesome-waitlist">waitlist</a> .
   <samp>
 </p>
