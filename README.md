@@ -30,6 +30,7 @@ Build something userful to lovely people that still reading books
     <a href="https://github.com/mefengl/chat-octopus">🐙octopus</a> .
     <a href="https://github.com/mefengl/chatgpt-playground/tree/main/apps/sensible">sensible</a> .
     <a href="https://github.com/mefengl/chatgpt-playground/tree/main/apps/infinite">infinite</a> .
+    <a href="https://github.com/mefengl/chat-chess">🏗️chess</a> .
     <a href="https://github.com/mefengl/chat-together">🏗️together</a> .
     <a href="https://github.com/mefengl/chatgpt-later">🏗️later</a> .
     <a href="https://github.com/mefengl/chatgpt-twice">🏗️twice</a> .
