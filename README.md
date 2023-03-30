@@ -24,14 +24,14 @@ Build something userful to lovely people that still reading books
     <span><a href="https://github.com/mefengl/chat-playground">playground</a></span> .
     <span><a href="https://github.com/mefengl/chatgpt-tampermonkey-starter">tampermonkey-starter</a></span>
     <br>
-    <a href="https://github.com/mefengl/chat-octopus">🐙octopus</a> .
-    <a href="https://github.com/mefengl/chatgpt-playground/tree/main/apps/infinite">♾️infinite</a> .
-    <a href="https://github.com/mefengl/chatgpt-doozy">💬doozy</a> .
+    <a href="https://github.com/mefengl/chat-octopus">octopus🐙</a> .
+    <a href="https://github.com/mefengl/chatgpt-playground/tree/main/apps/infinite">infinite♾️</a> .
+    <a href="https://github.com/mefengl/chatgpt-doozy">doozy💬</a> .
     <a href="https://github.com/mefengl/chatgpt-playground/tree/main/apps/sensible">sensible</a>
     <br>
-    <a href="https://github.com/mefengl/chat-melody">🏗️melody</a> .
+    <a href="https://github.com/mefengl/chat-melody">🏗️melody🎶</a> .
     <a href="https://github.com/mefengl/chat-autonomous">🏗️autonomous</a> .
-    <a href="https://github.com/mefengl/chat-chess">🏗️chess</a> .
+    <a href="https://github.com/mefengl/chat-chess">🏗️chess♟️</a> .
     <a href="https://github.com/mefengl/chat-together">🏗️together</a> .
     <a href="https://github.com/mefengl/chatgpt-later">🏗️later</a> .
     <a href="https://github.com/mefengl/chatgpt-twice">🏗️twice</a> .
@@ -43,7 +43,8 @@ Build something userful to lovely people that still reading books
 <p align="center">
   <samp>
     <span>app</span><br>
-    <a href="https://github.com/mefengl/Duvin">🏗️Duvin</a>
+    <a href="https://github.com/mefengl/Duvin">🏗️Duvin🫧</a>
+    <a href="https://github.com/mefengl/Spark">🏗️Spark✨</a>
   </samp>
 </p>
 
