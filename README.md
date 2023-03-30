@@ -24,7 +24,7 @@ Build something userful to lovely people that still reading books
 
 <p align="center">
   <samp>
-    <span><a href="https://github.com/mefengl/chatgpt-playground">playground</a></span> .
+    <span><a href="https://github.com/mefengl/chat-playground">playground</a></span> .
     <span><a href="https://github.com/mefengl/chatgpt-tampermonkey-starter">tampermonkey-starter</a></span>
     <br>
     <a href="https://github.com/mefengl/chat-octopus">🐙octopus</a> .
