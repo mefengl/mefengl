@@ -21,7 +21,7 @@ Build something userful to lovely people that still reading books
 
 <p align="center">
   <samp>
-    <span><a href="https://github.com/mefengl/chat-starter">starter</a></span> .
+    <span><a href="https://github.com/mefengl/chat-start">start</a></span> .
     <span><a href="https://github.com/mefengl/chat-play">play</a></span>
   <samp>
 </p>
