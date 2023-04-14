@@ -12,17 +12,17 @@ Build something userful to lovely people that still reading books
 
 <p align="center">
   <samp>
-    <span>utils</span><br>
-    <a href="https://github.com/mefengl/chatgpt-utils">chatgpt</a> .
-    <a href="https://github.com/mefengl/bard-utils">bard</a> .
-    <a href="https://github.com/mefengl/bing-utils">bing</a>
+    <span><a href="https://github.com/mefengl/chat-start">start</a></span> .
+    <span><a href="https://github.com/mefengl/chat-play">play</a></span>
   <samp>
 </p>
 
 <p align="center">
   <samp>
-    <span><a href="https://github.com/mefengl/chat-start">start</a></span> .
-    <span><a href="https://github.com/mefengl/chat-play">play</a></span>
+    <span>utils</span><br>
+    <a href="https://github.com/mefengl/chatgpt-utils">chatgpt</a> .
+    <a href="https://github.com/mefengl/bard-utils">bard</a> .
+    <a href="https://github.com/mefengl/bing-utils">bing</a>
   <samp>
 </p>
 
