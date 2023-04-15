@@ -28,14 +28,6 @@ Build something userful to lovely people that still reading books
 
 <p align="center">
   <samp>
-    <span>app🏗️</span><br>
-    <a href="https://github.com/mefengl/Duvin">Duvin🫧</a> .
-    <a href="https://github.com/mefengl/Spark">Spark✨</a>
-  </samp>
-</p>
-
-<p align="center">
-  <samp>
     <a href="https://github.com/mefengl/Awesome-AI-Engineer">AI Engineer</a> .
     <a href="https://github.com/mefengl/made-by-ai">badges</a> .
     <a href="https://github.com/mefengl/awesome-waitlist">waitlist</a>
@@ -46,8 +38,8 @@ Build something userful to lovely people that still reading books
 
 <p align="center">
   <samp>
-    <a href="https://mefengl.me/blog">blog</a> .
     <a href="https://github.com/mefengl/what-i-do">what-i-do</a> .
+    <a href="https://mefengl.me/blog">blog</a> .
     <a href="https://github.com/mefengl/what-i-read">what-i-read</a>
   </samp>
 </p>

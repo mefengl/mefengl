@@ -25,6 +25,14 @@
 
 <p align="center">
   <samp>
+    <span>app🏗️</span><br>
+    <a href="https://github.com/mefengl/Duvin">Duvin🫧</a> .
+    <a href="https://github.com/mefengl/Spark">Spark✨</a>
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
     <a href="https://github.com/mefengl/the-art-of-chatgpt">the art of chatgpt</a> .
   <samp>
 </p>
