@@ -46,6 +46,7 @@ Build something userful to lovely people that still reading books
 
 <p align="center">
   <samp>
-    <a href="https://github.com/mefengl/dotfiles">dotfiles</a>
+    <a href="https://github.com/mefengl/dotfiles">dotfiles</a> .
+    <a href="https://github.com/mefengl/my-arc">my-arc</a>
   </samp>
 </p>
