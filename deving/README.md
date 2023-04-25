@@ -36,3 +36,12 @@
     <a href="https://github.com/mefengl/the-art-of-chatgpt">the art of chatgpt</a> .
   <samp>
 </p>
+
+<p align="center">
+  <samp>
+    <span>utils</span><br>
+    <a href="https://github.com/mefengl/chatgpt-utils">chatgpt</a> .
+    <a href="https://github.com/mefengl/bard-utils">bard</a> .
+    <a href="https://github.com/mefengl/bing-utils">bing</a>
+  <samp>
+</p>
